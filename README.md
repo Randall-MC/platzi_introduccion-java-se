@@ -10,3 +10,5 @@ Java es un lenguaje de programación con el que puedes desarrollar software mult
 > **Anahí Salgado Díaz de la Vega**  
 > *Android, Firebase, Java, Geek y Teacher en Platzi*
 
+[Link al curso en Platzi 💚](https://platzi.com/cursos/java-basico/)
+
